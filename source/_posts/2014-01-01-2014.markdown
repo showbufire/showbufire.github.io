@@ -1,0 +1,33 @@
+---
+layout: post
+title: "2014"
+date: 2014-01-01 21:53:37 -0800
+comments: false
+categories: 
+---
+
+It's the time of each year when everyone is writing a new year plan, even though the truth is often suggested by this picture.
+![pusheen new year](https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn2/1505160_810276602331897_476684805_n.jpg)
+
+However, having a plan is better than nothing, I think, especiall when you write it down. At the end of the year, you'll know if you have achieved the goals you set at the begining or not.
+
+Top of my list for 2014 are:
+
+  * Ruby(rails)
+  * Frontend(javascript, css)
+  * Mobile(android, ios?)
+
+I first used Ruby in 2012, and became a big fan of it last year. The more I use the language, from simple scripts to rails application, the more elegant I find the language is. Despite being slow for computers, it's much more fun to write for developers. Last year, I read two ruby books, 'The Ruby Language' and 'Ruby Best Practice', and wrote some simple rails app, this year I want to get my hands dirty on more projects. The goal is to be very confident in using the language at the end of the year.
+
+While developing web apps, the most frustrating point for me is the frontend. Having a decent UI is really hard even with the help of the awesome Bootstrap. This is halfly due to my lack of experience in the frontend, and halfly due to my lack of DNA in design. I'd love to change this in 2014.
+
+Mobile is my new interest. Having enrolled several 101 classes for android in coursera and udacity, I also want to dig deeper after finishing the classes. Building some real apps would be the best way, I believe.
+
+Other things, not only technology, I'm interested in playing with in 2014 are
+
+  * DSLR camera
+  * Photoshop
+  * Bitcoin
+  * Spanish
+  * Raspberry Pi
+  * Node.js
