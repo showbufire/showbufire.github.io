@@ -4,7 +4,7 @@
   <title><![CDATA[Automate Tomato]]></title>
   <link href="http://showbufire.github.io/atom.xml" rel="self"/>
   <link href="http://showbufire.github.io/"/>
-  <updated>2014-01-01T16:36:49-08:00</updated>
+  <updated>2014-01-01T22:47:52-08:00</updated>
   <id>http://showbufire.github.io/</id>
   <author>
     <name><![CDATA[Xiao Jiang]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2014]]></title>
+    <link href="http://showbufire.github.io/blog/2014/01/01/2014/"/>
+    <updated>2014-01-01T21:53:37-08:00</updated>
+    <id>http://showbufire.github.io/blog/2014/01/01/2014</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s the time of each year when everyone is writing a new year plan, even though the truth is often suggested by this picture.
+<img src="https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn2/1505160_810276602331897_476684805_n.jpg" alt="pusheen new year" /></p>
+
+<p>However, having a plan is better than nothing, I think, especiall when you write it down. At the end of the year, you&rsquo;ll know if you have achieved the goals you set at the begining or not.</p>
+
+<p>Top of my list for 2014 are:</p>
+
+<ul>
+<li>Ruby(rails)</li>
+<li>Frontend(javascript, css)</li>
+<li>Mobile(android, ios?)</li>
+</ul>
+
+
+<p>I first used Ruby in 2012, and became a big fan of it last year. The more I use the language, from simple scripts to rails application, the more elegant I find the language is. Despite being slow for computers, it&rsquo;s much more fun to write for developers. Last year, I read two ruby books, &lsquo;The Ruby Language&rsquo; and &lsquo;Ruby Best Practice&rsquo;, and wrote some simple rails app, this year I want to get my hands dirty on more projects. The goal is to be very confident in using the language at the end of the year.</p>
+
+<p>While developing web apps, the most frustrating point for me is the frontend. Having a decent UI is really hard even with the help of the awesome Bootstrap. This is halfly due to my lack of experience in the frontend, and halfly due to my lack of DNA in design. I&rsquo;d love to change this in 2014.</p>
+
+<p>Mobile is my new interest. Having enrolled several 101 classes for android in coursera and udacity, I also want to dig deeper after finishing the classes. Building some real apps would be the best way, I believe.</p>
+
+<p>Other things, not only technology, I&rsquo;m interested in playing with in 2014 are</p>
+
+<ul>
+<li>DSLR camera</li>
+<li>Photoshop</li>
+<li>Bitcoin</li>
+<li>Spanish</li>
+<li>Raspberry Pi</li>
+<li>Node.js</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
